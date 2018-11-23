@@ -1,0 +1,9 @@
+{
+  "name": "confup",
+  "version": "0.0.1",
+  "description": "Config manager",
+  "main": "lib/index.js",
+  "repository": "git@github.com:alexandrebodin/confup.git",
+  "author": "Alexandre Bodin <bodin.alex@gmail.com>",
+  "license": "MIT"
+}
